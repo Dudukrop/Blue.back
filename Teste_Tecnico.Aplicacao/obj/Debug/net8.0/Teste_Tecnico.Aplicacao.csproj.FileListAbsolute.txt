@@ -1,0 +1,17 @@
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Aplicacao.deps.json
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Aplicacao.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Aplicacao.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Dominio.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\bin\Debug\net8.0\Teste_Tecnico.Dominio.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Te.32553119.Up2Date
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\refint\Teste_Tecnico.Aplicacao.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\Teste_Tecnico.Aplicacao.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Aplicacao\obj\Debug\net8.0\ref\Teste_Tecnico.Aplicacao.dll

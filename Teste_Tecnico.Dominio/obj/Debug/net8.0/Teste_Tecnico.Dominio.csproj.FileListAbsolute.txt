@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\bin\Debug\net8.0\Teste_Tecnico.Dominio.deps.json
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\bin\Debug\net8.0\Teste_Tecnico.Dominio.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\bin\Debug\net8.0\Teste_Tecnico.Dominio.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\refint\Teste_Tecnico.Dominio.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\Teste_Tecnico.Dominio.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Dominio\obj\Debug\net8.0\ref\Teste_Tecnico.Dominio.dll

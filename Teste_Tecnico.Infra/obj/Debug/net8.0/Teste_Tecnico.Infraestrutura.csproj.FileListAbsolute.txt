@@ -1,0 +1,17 @@
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.deps.json
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Infraestrutura.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Dominio.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\bin\Debug\net8.0\Teste_Tecnico.Dominio.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Te.AF83FAD1.Up2Date
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\refint\Teste_Tecnico.Infraestrutura.dll
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.pdb
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\Teste_Tecnico.Infraestrutura.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\Teste_Tecnico\Teste_Tecnico.Infra\obj\Debug\net8.0\ref\Teste_Tecnico.Infraestrutura.dll

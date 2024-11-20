@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|solutionrelative:teste_tecnico.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|solutionrelative:teste_tecnico.infra\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|solutionrelative:teste_tecnico.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|solutionrelative:teste_tecnico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\entidades\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\entidades\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|solutionrelative:teste_tecnico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA0D839-FAF9-4973-A1D3-A37FCA8919E3}|Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra_ioc\\injecaodedependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA0D839-FAF9-4973-A1D3-A37FCA8919E3}|Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj|solutionrelative:teste_tecnico.infra_ioc\\injecaodedependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\interfaces\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\interfaces\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\servico\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\servico\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\mapeamento\\dominioparadtomapeamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\mapeamento\\dominioparadtomapeamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.aplicacao\\teste_tecnico.aplicacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAAAC1E4-822E-475C-9682-61D206C13CB8}|Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj|solutionrelative:teste_tecnico.aplicacao\\teste_tecnico.aplicacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA0D839-FAF9-4973-A1D3-A37FCA8919E3}|Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra_ioc\\teste_tecnico.infra_ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CA0D839-FAF9-4973-A1D3-A37FCA8919E3}|Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj|solutionrelative:teste_tecnico.infra_ioc\\teste_tecnico.infra_ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|solutionrelative:teste_tecnico.infra\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra\\contexto\\aplicacaodbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|solutionrelative:teste_tecnico.infra\\contexto\\aplicacaodbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\interfaces\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\interfaces\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\teste_tecnico.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\teste_tecnico.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.dominio\\validacao\\validacaodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A7CB6E-C7BA-47E6-A22C-8F9514F4A3D8}|Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj|solutionrelative:teste_tecnico.dominio\\validacao\\validacaodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.api\\teste_tecnico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22647708-8D97-4B92-99EC-4F9C03DCF990}|Teste_Tecnico.API\\Teste_Tecnico.API.csproj|solutionrelative:teste_tecnico.api\\teste_tecnico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|c:\\users\\eduardo\\source\\repos\\teste_tecnico\\teste_tecnico.infra\\teste_tecnico.infraestrutura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBF2A415-FDE6-4EB2-AFC4-FAB883BA0A3C}|Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj|solutionrelative:teste_tecnico.infra\\teste_tecnico.infraestrutura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:46:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Program.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Program.cs",
+              "RelativeToolTip": "Teste_Tecnico.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:32:36.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.API\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Teste_Tecnico.API\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:12:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Teste_Tecnico.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:49:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoServico.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Servico\\ProdutoServico.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Servico\\ProdutoServico.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Servico\\ProdutoServico.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Servico\\ProdutoServico.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:56:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "Teste_Tecnico.Infra\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:14:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:52:32.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entidade.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Entidade.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Entidades\\Entidade.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Entidade.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Entidades\\Entidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:47:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Entidades\\Produto.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:49:05.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Servico\\CategoriaServico.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Servico\\CategoriaServico.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Servico\\CategoriaServico.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Servico\\CategoriaServico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:56:17.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Teste_Tecnico.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\appsettings.json",
+              "RelativeToolTip": "Teste_Tecnico.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T21:32:02.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Interfaces\\ICategoriaServico.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Interfaces\\ICategoriaServico.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Interfaces\\ICategoriaServico.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Interfaces\\ICategoriaServico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:51:01.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\DTOs\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:44:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InjecaoDeDependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra_IoC\\InjecaoDeDependencia.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra_IoC\\InjecaoDeDependencia.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra_IoC\\InjecaoDeDependencia.cs",
+              "RelativeToolTip": "Teste_Tecnico.Infra_IoC\\InjecaoDeDependencia.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:30:50.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DominioParaDTOMapeamento.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Mapeamento\\DominioParaDTOMapeamento.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Mapeamento\\DominioParaDTOMapeamento.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Mapeamento\\DominioParaDTOMapeamento.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Mapeamento\\DominioParaDTOMapeamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:54:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:45:22.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teste_Tecnico.Infra_IoC.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj",
+              "RelativeToolTip": "Teste_Tecnico.Infra_IoC\\Teste_Tecnico.Infra_IoC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T20:30:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "Teste_Tecnico.Infra\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:11:11.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teste_Tecnico.Aplicacao.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj",
+              "RelativeToolTip": "Teste_Tecnico.Aplicacao\\Teste_Tecnico.Aplicacao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T19:45:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AplicacaoDbContexto.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Contexto\\AplicacaoDbContexto.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra\\Contexto\\AplicacaoDbContexto.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Contexto\\AplicacaoDbContexto.cs",
+              "RelativeToolTip": "Teste_Tecnico.Infra\\Contexto\\AplicacaoDbContexto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:06:31.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Interfaces\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Interfaces\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Interfaces\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Interfaces\\IProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vw8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:04:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:02:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Teste_Tecnico.Dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Teste_Tecnico.Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T19:47:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidacaoDominio.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Validacao\\ValidacaoDominio.cs",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Dominio\\Validacao\\ValidacaoDominio.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Dominio\\Validacao\\ValidacaoDominio.cs",
+              "RelativeToolTip": "Teste_Tecnico.Dominio\\Validacao\\ValidacaoDominio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:55:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Teste_Tecnico.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Teste_Tecnico.API.csproj",
+              "RelativeDocumentMoniker": "Teste_Tecnico.API\\Teste_Tecnico.API.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.API\\Teste_Tecnico.API.csproj",
+              "RelativeToolTip": "Teste_Tecnico.API\\Teste_Tecnico.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T19:45:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Teste_Tecnico.Infraestrutura.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj",
+              "RelativeDocumentMoniker": "Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Teste_Tecnico\\Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj",
+              "RelativeToolTip": "Teste_Tecnico.Infra\\Teste_Tecnico.Infraestrutura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T19:45:03.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
